@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @joypatel9
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Backend Development using Spring Framework ecosystem
-- 💞️ I’m looking to collaborate on Java and Backend Projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/joypatel9/)
 
 <!---
